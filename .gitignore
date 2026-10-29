@@ -1,0 +1,31 @@
+# Project binaries and native build artifacts
+prime_square_scan
+prefix_checkpoint
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+build/
+cmake-build-*/
+
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Generated runtime output and logs
+*.log
+*.tmp
+*.swp
+
+# Editor and OS metadata
+.vscode/
+.idea/
+.DS_Store
