@@ -1,0 +1,3 @@
+NEW_SOL idx=7 prime=17 m=36 sum=666
+NEW_SOL idx=86 prime=443 m=3169 sum=5022865
+RESULT first=2 last=25000000000 tested=24999999999 mod_pass=2606 true_hits=2 largest_witness=101 lastprime=654124187867 end_sumsq=3472224981741717439431038825672043 seconds=9113.22
